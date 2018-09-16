@@ -3,9 +3,9 @@ title = "Sawmill: A Modular Layout Builder for Hugo and Forestry.io"
 type = "page"
 [[blocks]]
 background_image = "/uploads/2018/04/20/logs-splash.png"
-background_style = "Dark"
+background_style = "Brand Color"
 heading = "Sawmill"
-size = "Big"
+size = "Small"
 subheading = "A Modular Layout Builder for Hugo and [Forestry.io](https://forestry.io)"
 template = "hero-section"
 [[blocks]]
